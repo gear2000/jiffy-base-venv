@@ -1,0 +1,2 @@
+virtualenv -p /usr/bin/python venv2.7
+source venv/bin/activate
